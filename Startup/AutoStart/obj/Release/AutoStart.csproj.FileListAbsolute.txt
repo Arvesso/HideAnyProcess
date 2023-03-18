@@ -1,0 +1,8 @@
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\bin\Release\AutoStart.exe.config
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\bin\Release\AutoStart.exe
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\bin\Release\AutoStart.pdb
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\obj\Release\AutoStart.csproj.AssemblyReference.cache
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\obj\Release\AutoStart.csproj.SuggestedBindingRedirects.cache
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\obj\Release\AutoStart.csproj.CoreCompileInputs.cache
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\obj\Release\AutoStart.exe
+E:\Project\ProcessHider\AVSienv\Startup\AutoStart\obj\Release\AutoStart.pdb

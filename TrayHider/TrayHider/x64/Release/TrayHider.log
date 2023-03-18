@@ -1,0 +1,7 @@
+﻿  HideTrayIcon.cpp
+D:\Project\ProcessHider\HideTrayIcon.cpp(33,16): warning C4244: инициализация: преобразование "LRESULT" в "DWORD", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TrayHider.vcxproj -> D:\Project\ProcessHider\AVSienv\TrayHider\x64\Release\TrayHider.exe
