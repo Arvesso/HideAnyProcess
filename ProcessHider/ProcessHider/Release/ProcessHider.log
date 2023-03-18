@@ -1,0 +1,19 @@
+﻿  DLLs_hex.cpp
+  Daemon.cpp
+  GetProcAddressR.cpp
+  HiderMain.cpp
+E:\Project\ProcessHider\ProcessHider\ProcessHider\HiderMain.cpp(87,71): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+E:\Project\ProcessHider\ProcessHider\ProcessHider\HiderMain.cpp(87,114): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+E:\Project\ProcessHider\ProcessHider\ProcessHider\HiderMain.cpp(171,42): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  Injector.cpp
+  linkedList.cpp
+  LoadLibraryR.cpp
+  Preparations.cpp
+E:\Project\ProcessHider\ProcessHider\ProcessHider\Preparations.cpp(94,33): warning C4018: <=: несоответствие типов со знаком и без знака
+E:\Project\ProcessHider\ProcessHider\ProcessHider\Preparations.cpp(100,32): warning C4018: <=: несоответствие типов со знаком и без знака
+  XGetopt.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ProcessHider.vcxproj -> E:\Project\ProcessHider\ProcessHider\MainFile\ProcessHider.exe
