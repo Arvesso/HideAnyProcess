@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  NtHookEngine.cpp
+  dllmain.cpp
+  Payload.cpp
+  ReflectiveLoader.cpp
+     Создается библиотека E:\Project\ProcessHider\ProcessHider\BuildOutput\x86Payload.lib и объект E:\Project\ProcessHider\ProcessHider\BuildOutput\x86Payload.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+distorm_x86.lib(decoder.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(decoder.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(distorm.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(distorm.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(instructions.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(instructions.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(insts.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(insts.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(operands.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(operands.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(prefix.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(prefix.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(textdefs.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(textdefs.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(wstring.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(wstring.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x86.lib(x86defs.obj) : warning LNK4099: "" PDB не найден с "distorm_x86.lib(x86defs.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  x86Payload.vcxproj -> E:\Project\ProcessHider\ProcessHider\BuildOutput\x86Payload.dll

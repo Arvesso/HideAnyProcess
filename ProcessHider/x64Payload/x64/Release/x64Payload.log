@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  NtHookEngine.cpp
+  ReflectiveLoader.cpp
+  Payload.cpp
+E:\Project\ProcessHider\ProcessHider\x64Payload\Payload.cpp(152,7): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+E:\Project\ProcessHider\ProcessHider\x64Payload\Payload.cpp(152,7): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  dllmain.cpp
+     Создается библиотека E:\Project\ProcessHider\ProcessHider\BuildOutput\x64Payload.lib и объект E:\Project\ProcessHider\ProcessHider\BuildOutput\x64Payload.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+distorm_x64.lib(distorm.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(distorm.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(decoder.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(decoder.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(textdefs.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(textdefs.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(x86defs.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(x86defs.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(wstring.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(wstring.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(instructions.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(instructions.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(operands.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(operands.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(prefix.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(prefix.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+distorm_x64.lib(insts.obj) : warning LNK4099: "" PDB не найден с "distorm_x64.lib(insts.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  x64Payload.vcxproj -> E:\Project\ProcessHider\ProcessHider\BuildOutput\x64Payload.dll

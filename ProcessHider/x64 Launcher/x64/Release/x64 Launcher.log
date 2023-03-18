@@ -1,0 +1,25 @@
+﻿  ---------  Started Building DLLs script ---------
+  ---------  Finished Building-DLLs script ---------
+  Daemon.cpp
+E:\Project\ProcessHider\ProcessHider\ProcessHider\Daemon.cpp(91,47): warning C4311: приведение типов: усечение указателя из "HANDLE" в "DWORD"
+E:\Project\ProcessHider\ProcessHider\ProcessHider\Daemon.cpp(91,47): warning C4302: приведение типов: усечение из "HANDLE" к "DWORD"
+  GetProcAddressR.cpp
+E:\Project\ProcessHider\ProcessHider\ProcessHider\GetProcAddressR.cpp(70,5): warning C4311: приведение типов: усечение указателя из "LPCSTR" в "DWORD"
+E:\Project\ProcessHider\ProcessHider\ProcessHider\GetProcAddressR.cpp(70,5): warning C4302: приведение типов: усечение из "LPCSTR" к "DWORD"
+E:\Project\ProcessHider\ProcessHider\ProcessHider\GetProcAddressR.cpp(75,26): warning C4311: приведение типов: усечение указателя из "LPCSTR" в "DWORD"
+E:\Project\ProcessHider\ProcessHider\ProcessHider\GetProcAddressR.cpp(75,26): warning C4302: приведение типов: усечение из "LPCSTR" к "DWORD"
+  Injector.cpp
+  linkedList.cpp
+  LoadLibraryR.cpp
+  Preparations.cpp
+E:\Project\ProcessHider\ProcessHider\ProcessHider\Preparations.cpp(97,55): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Project\ProcessHider\ProcessHider\ProcessHider\Preparations.cpp(103,47): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  XGetopt.cpp
+  x64 Launcher.cpp
+E:\Project\ProcessHider\ProcessHider\x64 Launcher\x64 Launcher.cpp(47,37): warning C4312: приведение типов: преобразование из "DWORD" в "BYTE *" большего размера
+E:\Project\ProcessHider\ProcessHider\x64 Launcher\x64 Launcher.cpp(49,37): warning C4312: приведение типов: преобразование из "DWORD" в "BYTE *" большего размера
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 265 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  x64 Launcher.vcxproj -> E:\Project\ProcessHider\ProcessHider\BuildOutput\x64Hider.exe
